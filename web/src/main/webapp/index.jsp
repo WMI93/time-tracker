@@ -11,7 +11,6 @@
     <title>Super Simple Example Webpage</title>
 <b><h3>this a example of deployemnt using jenkins and tomcat</h3></b>
 <b><h1>this a example of deployemnt using jenkins and tomcat</h1></b>
-<b><h1>this a example of deployemnt using jenkins and tomcat</h1></b>
 </head>
 <body>
   <h1>Super Simple Example Web Page</h1>
